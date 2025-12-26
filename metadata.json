@@ -1,0 +1,5 @@
+{
+  "name": "SleekMobile",
+  "description": "A minimalist, mobile-first Todo List application inspired by the Sleek todo.txt client. Features priority grouping, smart tagging, and a clean flat UI.",
+  "requestFramePermissions": []
+}
